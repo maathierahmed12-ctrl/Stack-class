@@ -8,12 +8,11 @@ public class EmployeeStackDemo<stack> {
     public EmployeeStackDemo(String Stack) {
 
          Stack <String> Employee  = new Stack<>();
-
-        Employee.push("Ali");
-        Employee.push("Muna");
-        Employee.push("Sara");
-        Employee.push("Omar");
-        Employee.push("Ahmed");
+        Employee.push("Login");
+        Employee.push("View Report");
+        Employee.push("Edit Profile");
+        Employee.push("Upload File");
+        Employee.push("Logout");
 
         System.out.println("all Employee :" +  Employee);
 
