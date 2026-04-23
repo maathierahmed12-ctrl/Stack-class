@@ -5,7 +5,7 @@ public class EmployeeStackSearch {
     public static void main(String[]args){
 
     }
-    public  EmployeeStackSearch(String Stack){
+     public EmployeeStackDemo(String Stack) {
 
         Stack <String> actions  = new Stack<>();
         actions.push("Login");
