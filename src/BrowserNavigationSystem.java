@@ -1,4 +1,4 @@
-import java.util.*; // لاستعمال Stack و List
+import java.util.*;
 
 public class BrowserNavigationSystem {
 
